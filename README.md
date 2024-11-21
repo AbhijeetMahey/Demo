@@ -1,4 +1,4 @@
 # Demo
-Getting started with Github
+Getting started with Github.
 <br>
 Author - AbhijeetMahey
